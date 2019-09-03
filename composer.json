@@ -1,5 +1,5 @@
 {
-    "name": "hellonico/acf-country",
+    "name": "aibesorg/acf-country",
     "type": "wordpress-plugin",
     "description": "Add a country field to ACF (Advanced Custom Fields)",
     "keywords": [
@@ -7,7 +7,7 @@
         "advanced custom fields",
         "country"
     ],
-    "homepage": "https://github.com/nlemoine/acf-country",
+    "homepage": "https://github.com/aibesorg/acf-country",
     "license": "MIT",
     "authors": [
         {
@@ -54,7 +54,7 @@
         "fix": "./vendor/bin/phpcbf"
     },
     "support": {
-        "issues": "https://github.com/nlemoine/acf-country/issues",
-        "source": "https://github.com/nlemoine/acf-country.git"
+        "issues": "https://github.com/aibesorg/acf-country/issues",
+        "source": "https://github.com/aibesorg/acf-country.git"
     }
 }

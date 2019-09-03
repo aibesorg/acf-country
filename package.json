@@ -4,13 +4,13 @@
   "description": "Adds a 'Country' field type for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/) WordPress plugin.",
   "license": "GPLv2",
   "author": "Nicolas Lemoine <dev@helloni.co>",
-  "homepage": "https://github.com/nlemoine/acf-country",
+  "homepage": "https://github.com/aibesorg/acf-country",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nlemoine/acf-country.git"
+    "url": "git+https://github.com/aibesorg/acf-country.git"
   },
   "bugs": {
-    "url": "https://github.com/nlemoine/acf-country/issues"
+    "url": "https://github.com/aibesorg/acf-country/issues"
   },
 	"scripts": {
 		"dev": "npm run -s clean && cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
